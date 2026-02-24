@@ -38,13 +38,3 @@ caption {
 .column-border {
   border: 2px solid black;
 }
-
-.one {
-display: flex;
-flex-direction: column;
-}
-
-.two {
-display: flex;
-
-}
